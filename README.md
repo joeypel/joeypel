@@ -1,8 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+JoeyPel's+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&color=%23B10000&lines=Welcome+To+JoeyPel's+GitHub+Profile!)](https://git.io/typing-svg)
 
-<h1 align="center">Hi, I'm Joey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-
-### Hello, my name is Joey 👋
+<h1 align="center"> Hello, my name is Joey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 - 🔭 I’m currently working on some side Projects for my Portfolio
 - 🌱 I’m currently learning NodeJs
